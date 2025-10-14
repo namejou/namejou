@@ -1,4 +1,3 @@
-
 <h3>
   Bonjour&nbsp;! <img src="assets/img/profile/wave.gif" alt="Hi" width="36">
 </h3>
