@@ -1,5 +1,5 @@
 <h3>
-  Bonjour&nbsp;! <img src="assets/img/profile/wave.gif" alt="Hi" width="36">
+  Bonjour&nbsp;! <img src="assets/img/profile/wave.gif" alt="Hi !" width="36">
 </h3>
 <img src="assets/img/profile/icon_presentation.png" alt="Portrait de Nadia Mejou" width="220" align="left">
 
