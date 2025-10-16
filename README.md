@@ -15,3 +15,6 @@
 🎓 Bachelor's Degree in Mathematics @ <a href="https://sciences.univ-amu.fr/" target="_blank" rel="noopener noreferrer">Aix-Marseille University</a>.<br clear="left">
 📍 I'm based in Paris.<br clear="left">
 🌏 Open to relocate worldwide.<br clear="left">
+
+My Portfolio Website & My Resume
+
