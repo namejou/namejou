@@ -20,6 +20,6 @@
 
 <p align="center">
   <img src="https://github.com/namejou/namejou/blob/main/assets/img/profile/portfolio.png" width="80">
-  <img src="https://raw.githubusercontent.com/namejou/namejou/main/assets/img/profile/resume.png" alt="Resume" width="80">
+  <img src="https://github.com/namejou/namejou/blob/main/assets/img/profile/resume.png" alt="Resume" width="80">
 </p>
 
