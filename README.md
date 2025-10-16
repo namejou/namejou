@@ -16,5 +16,10 @@
 📍 I'm based in Paris.<br clear="left">
 🌏 Open to relocate worldwide.<br clear="left">
 
-My Portfolio Website & My Resume
+<p align="center"><strong>My Portfolio Website &amp; My Resume</strong></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/namejou/namejou/main/assets/img/profile/portfolio.svg" alt="Portfolio" width="120">
+  <img src="https://raw.githubusercontent.com/namejou/namejou/main/assets/img/profile/resume.png" alt="Resume" width="120">
+</p>
 
