@@ -8,3 +8,12 @@
 <br clear="left">
 
 <hr>
+
+💼 Currently wokring at EDHEC Business School as a Data & Insights Manager.
+🎓 Double Master's Degree in Data Science and in Management @ <a href="https://www.pantheonsorbonne.fr/" target="_blank" rel="noopener noreferrer">
+  <img src="assets\img\profile\Logo_Université_Paris_1_Panthéon-Sorbonne.svg" 
+       alt="University Paris 1 | Panthéon-Sorbonne" 
+       width="100" />
+</a>
+🎓 Bachelor's Degree in Mathematics @ University of Provence, Marseille (France) 
+📍 I'm based in Paris but open to relocate worldwide.
