@@ -3,7 +3,7 @@
 </h3>
 <img src="assets/img/profile/icon_presentation.png" alt="Portrait de Nadia Mejou" width="220" align="left">
 
-<img src="assets/img/profile/profile_lines.svg" alt="Data & Insights Manager — Higher education · M.Sc. in Data Science · B.Sc. in Mathematics · Focused on data science for education" width="400">
+<img src="assets/img/profile/profile_lines_oldname.svg" alt="Data & Insights Manager — Higher education · M.Sc. in Data Science · B.Sc. in Mathematics · Focused on data science for education" width="400">
 
 <br clear="left">
 
